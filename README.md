@@ -9,11 +9,12 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.1-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.2-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
+[![Live URL](https://img.shields.io/badge/Live_App-iaf--attempts--calculator.ai.studio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iaf-attempts-calculator.ai.studio/)
 [![Made with Pride](https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F%20by%20Defence%20Aspirant-orange?style=for-the-badge)]()
 
 <br/>
 
-**[🌟 Live App Preview](https://ais-pre-lgk4ylabnnfu7n4lxafjra-618772800972.asia-southeast1.run.app)** • **[📖 SSB Roadmap Guide](#-comprehensive-5-day-ssb-roadmap)** • **[🎯 Entry Rules Engine](#-eligibility-mathematics--rules-engine)** • **[🚀 Quickstart](#-getting-started)**
+**[🌟 Live App (iaf-attempts-calculator.ai.studio)](https://iaf-attempts-calculator.ai.studio/)** • **[📖 SSB Roadmap Guide](#-comprehensive-5-day-ssb-roadmap)** • **[🎯 Entry Rules Engine](#-eligibility-mathematics--rules-engine)** • **[🚀 Quickstart](#-getting-started)**
 
 </div>
 

@@ -123,6 +123,16 @@ export const Footer: React.FC<{ darkMode: boolean }> = ({ darkMode }) => {
             <span>Made with</span>
             <Heart className="w-4 h-4 text-rose-500 fill-rose-500" />
             <span>by defence aspirant</span>
+            <span className="hidden md:inline text-slate-400">•</span>
+            <a
+              href="https://iaf-attempts-calculator.ai.studio/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden md:inline-flex items-center gap-1 text-emerald-600 dark:text-emerald-400 hover:underline font-mono text-[11px]"
+            >
+              <span>iaf-attempts-calculator.ai.studio</span>
+              <ExternalLink className="w-3 h-3" />
+            </a>
           </div>
 
           <div className="text-[11px] text-slate-400">
