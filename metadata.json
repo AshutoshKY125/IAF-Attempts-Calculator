@@ -2,5 +2,7 @@
   "name": "Indian Armed Forces Officer Entry & Attempt Tracker",
   "description": "Comprehensive officer entry tracker for Army, Navy, Air Force & Coast Guard. Calculate remaining attempts, eligible cycles, joining dates, and milestone schedules based on DOB, gender, and education.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
